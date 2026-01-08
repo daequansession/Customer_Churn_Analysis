@@ -1,0 +1,9 @@
+Metric,Value
+Total Customers Analyzed,"7,043"
+Overall Churn Rate (%),26.5
+Model Accuracy (%),77.6
+High-Risk Customers Identified,239
+Avg Tenure - Churned (months),18.0
+Avg Tenure - Stayed (months),37.6
+Avg Monthly Charges - Churned ($),74.44
+Avg Monthly Charges - Stayed ($),61.27
